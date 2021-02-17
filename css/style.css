@@ -1,6 +1,9 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: blueviolet;
+<<<<<<< Updated upstream
+=======
+  background-color: gray;
+>>>>>>> Stashed changes
 }
 @media screen (max-width:1000px) {
   #navigation{
